@@ -4,7 +4,7 @@
     <input type="submit" name="submit" name="submit" style="height: 30px; width: 100px; border:thin solid #889; background-color: #fff;">
 </form>
 <br/><br/><br/>
-
+<a href="https://netscope.ir/netscope-ir-google-dorker/" target="_blank">visit full code</a>
 <?php
 
 
